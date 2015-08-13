@@ -1,0 +1,2 @@
+# crypto-fish-agent
+project
